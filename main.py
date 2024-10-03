@@ -270,3 +270,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = GameOfLife(root)
     root.mainloop()
+KABOOM SOMEONE DROPS A DICK
